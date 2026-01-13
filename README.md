@@ -1,5 +1,4 @@
-# DataAnalysis
-Analysis of Data Analyst job market trends in Canada
+
 
 # Data Analyst Job Market Analysis – Canada
 
@@ -25,4 +24,4 @@ Job posting data related to data analyst positions in Canada.
 - Excel / Azure 
 
 ## Project Output
-- Detailed analysis report (PDF)
+- Detailed analysis report 
